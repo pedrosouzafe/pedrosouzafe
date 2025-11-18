@@ -45,7 +45,7 @@ Atualmente estudo e desenvolvo projetos em:
 ## 📫 Como me encontrar
 
 - ✉️ Email: **pedrohsouzaferreira05@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/pedrosouzafe
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-de-souza-ferreira-0632042a8
 
 ---
 
