@@ -36,8 +36,8 @@ Atualmente estudo e desenvolvo projetos em:
 ## 📌 Sobre mim
 
 - 👨‍💻 Sempre buscando criar soluções práticas e eficientes.
-- 🔧 Experiência com automações corporativas (Make, N8N, APIs).
-- 🎯 Foco atual: aprofundar meus conhecimentos em **C#**, **Spring Boot**, **React**, e **Angular**.
+- 🔧 Experiência com automações corporativas (Make, N8N, APIs, SQL Server).
+- 🎯 Foco atual: aprofundar meus conhecimentos em **Java**, **Spring Boot**, **React**, e **Angular**.
 - ⭐ Aberto para colaborar em projetos e aprender com a comunidade.
 
 ---
