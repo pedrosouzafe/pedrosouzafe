@@ -42,14 +42,6 @@ Atualmente estudo e desenvolvo projetos em:
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=estagiarioti&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=estagiarioti&layout=compact&theme=radical)
-
----
-
 ## 📫 Como me encontrar
 
 - ✉️ Email: **pedrohsouzaferreira05@gmail.com**
